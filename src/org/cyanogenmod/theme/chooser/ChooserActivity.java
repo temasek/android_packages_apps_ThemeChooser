@@ -52,7 +52,7 @@ public class ChooserActivity extends FragmentActivity implements DrawerAdapter.D
         initDrawer();
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setActionBar(toolbar);
+        //setActionBar(toolbar);
         if (mDrawerLayout != null) {
             toolbar.setNavigationIcon(R.drawable.ic_menu);
             toolbar.setNavigationOnClickListener(new View.OnClickListener() {
