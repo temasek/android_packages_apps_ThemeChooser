@@ -25,7 +25,7 @@
   <string name="ringtones">Nhạc chuông</string>
   <string name="notifications">Thông báo</string>
   <string name="alarms">Báo thức</string>
-  <string name="style">Phong cách</string>
+  <string name="style">Kiểu</string>
   <string name="status_bar">Thanh trạng thái</string>
   <string name="nav_bar">Thanh điều hướng</string>
   <string name="theme_packs">Gói chủ đề</string>
@@ -49,7 +49,7 @@
   <string name="menu_item_get_more_themes">Tải thêm</string>
   <string name="get_more_description">Bạn có thể tải thêm chủ đề từ các liên kết sau đây:</string>
   <string name="get_more_app_not_available">Ứng dụng không sẵn có</string>
-  <string name="get_more_entry_play_store">Cửa hàng Play</string>
+  <string name="get_more_entry_play_store">Play Store</string>
   <string name="get_more_entry_cm_wiki">Xem thêm thông tin trên CM Wiki</string>
   <string name="designed_for_cm11">Được thiết kế cho CM11</string>
 </resources>
