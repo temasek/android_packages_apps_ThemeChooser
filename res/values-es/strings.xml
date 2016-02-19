@@ -17,12 +17,12 @@
 -->
 <resources>
   <string name="app_name">Temas</string>
-  <string name="lock_screen">Fondos de bloqueo</string>
+  <string name="lock_screen">Bloquear fondos de pantalla</string>
   <string name="icons">Iconos</string>
   <string name="fonts">Fuentes</string>
   <string name="wallpapers">Fondos de pantalla</string>
   <string name="boot_anims">Animaciones de inicio</string>
-  <string name="ringtones">Tonos de llamada</string>
+  <string name="ringtones">Timbres de llamada</string>
   <string name="notifications">Notificaciones</string>
   <string name="alarms">Alarmas</string>
   <string name="style">Estilo</string>
@@ -41,7 +41,7 @@
   <string name="menu_item_uninstall">Desinstalar</string>
   <string name="alarm_label">Alarma</string>
   <string name="notification_label">Notificación</string>
-  <string name="ringtone_label">Tono de llamada</string>
+  <string name="ringtone_label">Timbre de llamada</string>
   <string name="unknown_author">Autor desconocido</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="theme_installed_notification_title">%s instalado</string>
